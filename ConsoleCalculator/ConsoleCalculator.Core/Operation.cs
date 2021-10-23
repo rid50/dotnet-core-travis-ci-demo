@@ -21,7 +21,7 @@ namespace ConsoleCalculator.Core
             switch (operatorString)
             {
                 case "+":
-                    OperatorEnum = OperatorsEnum.ADD;
+                    OperatorEnum = OperatorsEnum.SUBSTRACT;
                     break;
                 case "-":
                     OperatorEnum = OperatorsEnum.SUBSTRACT;
